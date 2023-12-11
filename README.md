@@ -1,4 +1,12 @@
-### Hi there <img width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">
+### Hi there, I'm riogesta <img width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">
+
+Arch Linux users 
+
+### Languages
+![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=ffffff)
+![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=323232)
+![Java](https://img.shields.io/badge/Java-e12a2b?style=flat&logo=openjdk&logoColor=ffffff)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=ffffff)
 
 
 
