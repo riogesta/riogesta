@@ -11,6 +11,7 @@
 
 ![Python](https://img.shields.io/badge/Flask-white?style=flat&logo=Flask&logoColor=323232)
 ![Codeigniter](https://img.shields.io/badge/Codeigniter-white?logo=codeigniter)
+![Express](https://img.shields.io/badge/Express-grey?style=flat&logo=Express&logoColor=white)
 
 ## Blog
 
