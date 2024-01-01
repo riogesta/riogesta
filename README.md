@@ -1,5 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="30" />
 
+My name is Rio, and I use Arch Linux as my primary operating system on a daily basis, I am also interested in open-source programs because of this. I hope that one day I can contribute to the development of open-source software. 😊
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=ffffff)
