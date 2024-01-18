@@ -14,6 +14,9 @@ My name is Rio, and I use Arch Linux as my primary operating system on a daily b
 ![Python](https://img.shields.io/badge/Flask-white?style=flat&logo=Flask&logoColor=323232)
 ![Codeigniter](https://img.shields.io/badge/Codeigniter-white?logo=codeigniter)
 ![Express](https://img.shields.io/badge/Express-grey?style=flat&logo=Express&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-white?style=flat&logo=Vue.js&color=%231a1a1a)
+![Static Badge](https://img.shields.io/badge/Axios-white?style=flat&logo=Axios&color=%235A29E4)
+![Prisma](https://img.shields.io/badge/Prisma-white?style=flat&logo=Prisma&labelColor=%232D3748&color=%232D3748)
 
 ## Blog
 
